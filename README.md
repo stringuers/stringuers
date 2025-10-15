@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @stringuers
+#  Hi, I’m @stringuers
 
 Welcome to my GitHub! I'm a passionate and curious **computer engineering student** focused on **embedded systems**, **AI**, **cybersecurity**, and **full-stack development**.
 
@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a passionate and curious **computer engineering studen
 
 ---
 
-### 🌱 I’m currently learning:
+###  I’m currently learning:
 - Wi-Fi & IoT Security
 - Advanced CTF solving techniques
 - Reinforcement Learning for robotics
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate and curious **computer engineering studen
 
 ---
 
-### 💞️ I’m looking to collaborate on:
+###  I’m looking to collaborate on:
 - Security-focused platforms (CTFs, training tools)
 - IoT/AI integration projects
 - Open-source embedded firmware
@@ -30,22 +30,12 @@ Welcome to my GitHub! I'm a passionate and curious **computer engineering studen
 
 ---
 
-### 📫 How to reach me:
+###  How to reach me:
 - Email: kilenimoemen2004@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdelmoemen-kilani-030756295/
 - GitHub: [@stringuers](https://github.com/stringuers)
 
----
 
-### 😄 Pronouns:
-He/Him
-
----
-
-### ⚡ Fun fact:
-I once combined IoT, AI, and AR to propose a solution to plastic surgery addiction — using a smart patch and an AR mirror!
-
----
 
 Thanks for stopping by! 🚀
 
