@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate and curious **computer engineering studen
 
 ---
 
-### 👀 I’m interested in:
+###  I’m interested in:
 - IoT & Embedded Systems (ESP32, Microros)
 - AI/ML for real-world applications
 - Ethical Hacking & Capture The Flag (CTF) challenges
