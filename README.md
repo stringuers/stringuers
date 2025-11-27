@@ -48,38 +48,20 @@ I design practical AI + security solutions for resource-constrained devices, cre
 
 ---
 
-## 🚀 Animated Skill Bars (live)
-> Quick visual of where I spend my time.
+## 🚀 Animated Skill Bars
 
-<p>
-  <strong>Python</strong><br>
-  <img src="https://progress-bar.dev/95/?title=Python&color=1F8FEB&suffix=%25" alt="Python - 95%"/>
-</p>
+> A visual overview of my core skills.
 
-<p>
-  <strong>Embedded C / C++</strong><br>
-  <img src="https://progress-bar.dev/88/?title=C%20%2F%20C++&color=0F9D58&suffix=%25" alt="C/C++ - 88%"/>
-</p>
+<div align="center">
 
-<p>
-  <strong>IoT & ESP32</strong><br>
-  <img src="https://progress-bar.dev/86/?title=IoT+%26+ESP32&color=FF6D00&suffix=%25" alt="IoT - 86%"/>
-</p>
+<img src="https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2FC++-88%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT%20%26%20ESP32-86%25-00979D?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity%20%2F%20CTF-84%25-9B59B6?style=for-the-badge&logo=protonvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps%20%2F%20Docker-72%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20%2F%20Next.js-68%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 
-<p>
-  <strong>Cybersecurity / CTF</strong><br>
-  <img src="https://progress-bar.dev/84/?title=Cybersecurity%20%2F%20CTF&color=FF2D95&suffix=%25" alt="CTF - 84%"/>
-</p>
-
-<p>
-  <strong>DevOps & Docker</strong><br>
-  <img src="https://progress-bar.dev/72/?title=DevOps+%26+Docker&color=0066FF&suffix=%25" alt="DevOps - 72%"/>
-</p>
-
-<p>
-  <strong>React / Next.js</strong><br>
-  <img src="https://progress-bar.dev/68/?title=React+%2F+Next.js&color=61DAFB&suffix=%25" alt="React - 68%"/>
-</p>
+</div>
 
 ---
 
@@ -124,24 +106,41 @@ I design practical AI + security solutions for resource-constrained devices, cre
 ---
 
 ## ✨ Featured Projects
-> Quick showcase — replace the links & descriptions with real repos.
+
+> A curated selection of my top work.
+
+---
 
 ### 🔐 Wireless & IoT Security CTF Platform  
-**`wireless-iot-ctf`** — Gamified labs for learning Wi-Fi & IoT security (Docker/KVM sandboxes, auto scoring, challenge generator).  
-`⭐` `CTF` `Docker` `IoT`  
-**Repo:** https://github.com/stringuers/wireless-iot-ctf
+**`wireless-iot-ctf`**  
+A gamified CTF platform for Wi-Fi & IoT security, featuring automated KVM/Docker sandboxes, scoring engine, and challenge generator.
 
-### 💸 Smart Expense Tracker (Mobile + Backend)  
-**`smart-expense-app`** — Mobile app + backend for budgets, reports, and notifications. (TFLite on-device features planned)  
-`⭐` `Flutter` `Postgres` `TFLite`  
-**Demo / Repo:** https://github.com/stringuers/smart-expense-app
+<img src="https://raw.githubusercontent.com/stringuers/wireless-iot-ctf/main/.github/thumbnail.png" width="600" />
+
+**Tech:** `CTF` `Docker` `KVM` `IoT`  
+🔗 **Repo:** https://github.com/stringuers/wireless-iot-ctf  
+
+---
+
+### 📱 Smart Expense Tracker (Mobile + Backend)  
+**`smart-expense-app`**  
+A cross-platform expense tracker with analytics, dashboards, budgeting, and TFLite on-device intelligence.
+
+<img src="https://raw.githubusercontent.com/stringuers/smart-expense-app/main/.github/thumbnail.png" width="600" />
+
+**Tech:** `Flutter` `PostgreSQL` `TFLite`  
+🔗 **Demo / Repo:** https://github.com/stringuers/smart-expense-app  
+
+---
 
 ### 🛠️ CTF Challenge Generator & Labs  
-**`ctf-lab-gen`** — Automated challenge generator for classroom & competitive CTFs.  
-`⭐` `Sandboxing` `KVM` `Scoring`  
-**Repo:** https://github.com/stringuers/ctf-lab-gen
+**`ctf-lab-gen`**  
+Automated generator for classrooms & competitive CTFs. Includes sandbox builder, scorer, and multi-difficulty challenges.
 
-> _If you want, I will build project cards with live preview thumbnails and status badges._
+<img src="https://raw.githubusercontent.com/stringuers/ctf-lab-gen/main/.github/thumbnail.png" width="600" />
+
+**Tech:** `Sandboxing` `KVM` `Docker`  
+🔗 **Repo:** https://github.com/stringuers/ctf-lab-gen  
 
 ---
 
