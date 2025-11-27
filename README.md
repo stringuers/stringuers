@@ -24,10 +24,10 @@
 class AbdelmoemenKilani:
     def __init__(self):
         self.username = "stringuers"
-        self.role = "SAP DevOps & IoT Intern"
+        self.roles = "SAP DevOps & IoT Intern"
         self.education = "Computer Engineering & Embedded Systems"
         self.location = "Tunis, Tunisia 🇹🇳"
-        self.languages = ["Python", "C/C++", "JavaScript", "Rust", "Go"]
+        self.languages = ["Python", "C/C++", "JavaScript", "TypeScript", "Java"]
         
     def current_focus(self):
         return [
@@ -58,7 +58,7 @@ class AbdelmoemenKilani:
       <ul>
         <li>🔧 Building CI/CD pipelines for IoT device provisioning</li>
         <li>🐳 Containerizing IoT services with Docker & Kubernetes</li>
-        <li>🏗️ Infrastructure as Code (Terraform, Ansible)</li>
+        <li>🏗️ Infrastructure as Code </li>
         <li>🔒 Implementing secure firmware update mechanisms</li>
         <li>📊 Monitoring & observability for distributed IoT systems</li>
       </ul>
@@ -84,8 +84,6 @@ class AbdelmoemenKilani:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🔧 IoT & Embedded Systems
@@ -95,14 +93,11 @@ class AbdelmoemenKilani:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AA00?style=for-the-badge&logoColor=white)
 
 ### ⚙️ DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -120,7 +115,6 @@ class AbdelmoemenKilani:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -136,87 +130,6 @@ class AbdelmoemenKilani:
 
 ---
 
-## 📊 Skills Radar — Core Competencies
-
-<div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 320 320">
-  <style>
-    .text{font-family:'Segoe UI', Arial, sans-serif; fill:#e6f0ff; font-size:13px; font-weight:600}
-    .label{font-family:'Segoe UI', Arial, sans-serif; fill:#a0aec0; font-size:11px}
-  </style>
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#FF4DFF"/>
-      <stop offset="50%" stop-color="#00E5FF"/>
-      <stop offset="100%" stop-color="#7B42BC"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <rect width="100%" height="100%" rx="16" fill="#0d1117"/>
-
-  <!-- Grid circles -->
-  <g opacity="0.15">
-    <circle cx="160" cy="160" r="130" fill="none" stroke="#7a7f89" stroke-width="1.5"/>
-    <circle cx="160" cy="160" r="87" fill="none" stroke="#5b6168" stroke-width="1.5"/>
-    <circle cx="160" cy="160" r="43" fill="none" stroke="#3d4247" stroke-width="1.5"/>
-  </g>
-
-  <!-- Percentage circles -->
-  <g class="label">
-    <text x="160" y="35" text-anchor="middle">100%</text>
-    <text x="160" y="78" text-anchor="middle">66%</text>
-    <text x="160" y="122" text-anchor="middle">33%</text>
-  </g>
-
-  <!-- Axes (7 lines) -->
-  <g stroke="#39414a" stroke-width="1.5">
-    <line x1="160" y1="160" x2="160" y2="30"/>
-    <line x1="160" y1="160" x2="277.5" y2="77.3"/>
-    <line x1="160" y1="160" x2="277.5" y2="242.7"/>
-    <line x1="160" y1="160" x2="160" y2="290"/>
-    <line x1="160" y1="160" x2="42.5" y2="242.7"/>
-    <line x1="160" y1="160" x2="42.5" y2="77.3"/>
-    <line x1="160" y1="160" x2="160" y2="30"/>
-  </g>
-
-  <!-- Filled skill shape -->
-  <polygon points="160,36.5 273.5,82 276,233 160,270 53,229 46,84 148,40"
-    fill="url(#g1)" fill-opacity="0.35"
-    stroke="#00E5FF" stroke-width="2.5" stroke-opacity="0.9"
-    filter="url(#glow)"/>
-
-  <!-- Skill points -->
-  <g fill="#00E5FF" filter="url(#glow)">
-    <circle cx="160" cy="36.5" r="4"/>
-    <circle cx="273.5" cy="82" r="4"/>
-    <circle cx="276" cy="233" r="4"/>
-    <circle cx="160" cy="270" r="4"/>
-    <circle cx="53" cy="229" r="4"/>
-    <circle cx="46" cy="84" r="4"/>
-    <circle cx="148" cy="40" r="4"/>
-  </g>
-
-  <!-- Labels -->
-  <text x="160" y="20" text-anchor="middle" class="text">Python 95%</text>
-  <text x="290" y="82" text-anchor="start" class="text">C/C++ 88%</text>
-  <text x="290" y="240" text-anchor="start" class="text">IoT 86%</text>
-  <text x="160" y="305" text-anchor="middle" class="text">CTF 84%</text>
-  <text x="30" y="240" text-anchor="end" class="text">DevOps 72%</text>
-  <text x="30" y="82" text-anchor="end" class="text">AI/ML 70%</text>
-  <text x="160" y="50" text-anchor="middle" class="text" opacity="0.9">React 68%</text>
-</svg>
-
-</div>
-
----
 
 ## ✨ Featured Projects
 
@@ -302,7 +215,7 @@ class AbdelmoemenKilani:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=stringuers&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=FF4DFF&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=stringuers&theme=radical&hide_border=true&background=0d1117&ring=00E5FF&fire=FF4DFF&currStreakLabel=00E5FF" alt="GitHub Streak" />
+
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stringuers&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" alt="Top Languages" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=stringuers&theme=radical&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
@@ -347,11 +260,11 @@ timeline
 
 | 🎯 Focus Area | 📚 Resources | 🚀 Progress |
 |--------------|-------------|------------|
-| **Reinforcement Learning** | Sutton & Barto, OpenAI Gym | ![75%](https://progress-bar.dev/75) |
-| **Compiler Design** | Dragon Book, LLVM | ![60%](https://progress-bar.dev/60) |
-| **Rust for Embedded** | Embedded Rust Book | ![70%](https://progress-bar.dev/70) |
-| **Advanced IoT Security** | IoT Pentesting, Wi-Fi Hacking | ![85%](https://progress-bar.dev/85) |
-| **Kubernetes at Scale** | CKAD, Production Best Practices | ![65%](https://progress-bar.dev/65) |
+| **Reinforcement Learning** | Sutton & Barto, OpenAI Gym | ![75%] |
+| **Compiler Design** | Dragon Book, LLVM | ![60%]|
+| **Rust for Embedded** | Embedded Rust Book | ![70%] |
+| **Advanced IoT Security** | IoT Pentesting, Wi-Fi Hacking | ![85%] |
+| **Kubernetes at Scale** | CKAD, Production Best Practices | ![65%] |
 
 </div>
 
@@ -448,7 +361,7 @@ Other        1 hr 28 mins    █░░░░░░░░░░░░░░░░
 
 ### 🌟 "Security is not a product, but a process" — Bruce Schneier
 
-![Snake animation](https://raw.githubusercontent.com/stringuers/stringuers/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
