@@ -39,7 +39,7 @@ I design practical AI + security solutions for resource-constrained devices, cre
   <img src="https://img.shields.io/badge/Cybersecurity%20%2F%20CTF-84%25-9B59B6?style=for-the-badge&logo=protonvpn&logoColor=white" alt="CTF 84%"/>
   <img src="https://img.shields.io/badge/DevOps%20%2F%20Docker-72%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps 72%"/>
   <img src="https://img.shields.io/badge/React%20%2F%20Next.js-68%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 68%"/>
-  <img src="https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML 70%"/>
+  <img src="https://img.shields.io/badge/AI/ML-95%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML 70%"/>
 </p>
 
 ---
