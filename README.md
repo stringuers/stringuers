@@ -260,11 +260,11 @@ timeline
 
 | 🎯 Focus Area | 📚 Resources | 🚀 Progress |
 |--------------|-------------|------------|
-| **Reinforcement Learning** | Sutton & Barto, OpenAI Gym | ![75%] |
-| **Compiler Design** | Dragon Book, LLVM | ![60%]|
-| **Rust for Embedded** | Embedded Rust Book | ![70%] |
-| **Advanced IoT Security** | IoT Pentesting, Wi-Fi Hacking | ![85%] |
-| **Kubernetes at Scale** | CKAD, Production Best Practices | ![65%] |
+| **Reinforcement Learning** | Sutton & Barto, OpenAI Gym | 75% |
+| **Compiler Design** | Dragon Book, LLVM | 60%|
+| **Rust for Embedded** | Embedded Rust Book | 70% |
+| **Advanced IoT Security** | IoT Pentesting, Wi-Fi Hacking | 85% |
+| **Kubernetes at Scale** | CKAD, Production Best Practices | 65% |
 
 </div>
 
