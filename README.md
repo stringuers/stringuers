@@ -39,7 +39,7 @@ I design practical AI + security solutions for resource-constrained devices, cre
   <img src="https://img.shields.io/badge/Cybersecurity%20%2F%20CTF-84%25-9B59B6?style=for-the-badge&logo=protonvpn&logoColor=white" alt="CTF 84%"/>
   <img src="https://img.shields.io/badge/DevOps%20%2F%20Docker-72%25-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps 72%"/>
   <img src="https://img.shields.io/badge/React%20%2F%20Next.js-68%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 68%"/>
-  <img src="https://img.shields.io/badge/AI%2FML-70%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="AI/ML 70%"/>
+  <img src="https://img.shields.io/badge/Python-95%25-blue?style=for-the-badge&logo=python&logoColor=white" alt="AI/ML 70%"/>
 </p>
 
 ---
@@ -70,25 +70,26 @@ I design practical AI + security solutions for resource-constrained devices, cre
   <!-- Axes -->
   <g stroke="#39414a" stroke-width="1">
     <line x1="120" y1="120" x2="120" y2="20"/>
-    <line x1="120" y1="120" x2="192.11" y2="76"/>
-    <line x1="120" y1="120" x2="194.48" y2="163"/>
-    <line x1="120" y1="120" x2="120" y2="204"/>
-    <line x1="120" y1="120" x2="57.65" y2="156"/>
-    <line x1="120" y1="120" x2="61.11" y2="86"/>
+    <line x1="120" y1="120" x2="206.6" y2="70"/>
+    <line x1="120" y1="120" x2="206.6" y2="170"/>
+    <line x1="120" y1="120" x2="120" y2="220"/>
+    <line x1="120" y1="120" x2="33.4" y2="170"/>
+    <line x1="120" y1="120" x2="33.4" y2="70"/>
   </g>
 
-  <!-- Filled skill shape -->
-  <polygon points="120,25 196.21,76 194.48,163 120,204 57.65,156 61.11,86"
+  <!-- Filled skill shape (7 points for heptagon) -->
+  <polygon points="120,50 192.11,76 194.48,163 120,190 57.65,156 61.11,86 120,50"
     fill="url(#g)" fill-opacity="0.85"
     stroke="white" stroke-opacity="0.6"/>
 
   <!-- Labels -->
   <text x="120" y="18" text-anchor="middle" class="text">Python 95%</text>
-  <text x="196" y="72" text-anchor="middle" class="text">C/C++ 88%</text>
-  <text x="194" y="171" text-anchor="middle" class="text">IoT 86%</text>
-  <text x="120" y="216" text-anchor="middle" class="text">CTF 84%</text>
-  <text x="57" y="166" text-anchor="middle" class="text">DevOps 72%</text>
-  <text x="60" y="80" text-anchor="middle" class="text">React 68%</text>
+  <text x="210" y="75" text-anchor="start" class="text">C/C++ 88%</text>
+  <text x="210" y="175" text-anchor="start" class="text">IoT 86%</text>
+  <text x="120" y="232" text-anchor="middle" class="text">CTF 84%</text>
+  <text x="30" y="175" text-anchor="end" class="text">DevOps 72%</text>
+  <text x="30" y="75" text-anchor="end" class="text">AI/ML 70%</text>
+  <text x="120" y="45" text-anchor="middle" class="text">React 68%</text>
 </svg>
 
 
