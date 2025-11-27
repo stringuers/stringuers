@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello — I'm **Abdelmoemen Kilani**
+#  Hello — I'm **Abdelmoemen Kilani**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;IoT+%26+Embedded+Systems+Expert;CTF+Player+%26+Security+Researcher;DevOps+%26+AI+Engineer;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 
